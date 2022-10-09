@@ -30,11 +30,11 @@ Here are some ideas to get you started:
   🔨 Tools...<br/>
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-EF2D5E?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pycharm-83B81A?style=flat-square&logo=Pycharm&logoColor=white"/>
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnamhyeon0112&layout=compact)](https://github.com/kimnamhyeon0112/github-readme-stats)
