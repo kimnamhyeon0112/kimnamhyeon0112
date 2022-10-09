@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align=center>
+<img src="https://img.shields.io/badge/C-#5C2D91?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PYTHON-#3776AB?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-#1572B6?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-#F7DF1E?style=flat&logo=TypeScript&logoColor=white"/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnamhyeon0112)](https://github.com/kimnamhyeon0112/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnamhyeon0112&layout=compact)](https://github.com/kimnamhyeon0112/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnamhyeon0112)](https://github.com/kimnamhyeon0112/github-readme-stats)
+</div>
