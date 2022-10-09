@@ -36,7 +36,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pycharm-83B81A?style=flat-square&logo=Pycharm&logoColor=white"/>
-
+  
+  <br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnamhyeon0112&layout=compact)](https://github.com/kimnamhyeon0112/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnamhyeon0112)](https://github.com/kimnamhyeon0112/github-readme-stats)
