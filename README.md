@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-  - 🌱 I’m currently learning ...
+  - 📝 I’m currently learning ...
   <img src="https://img.shields.io/badge/C-5C2D91?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3777AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -25,6 +25,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
+  - 📞 Contact me 
+  knh306@naver.com
+
   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnamhyeon0112&layout=compact)](https://github.com/kimnamhyeon0112/github-readme-stats)
