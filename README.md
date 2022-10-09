@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnamhyeon0112)](https://github.com/kimnamhyeon0112/github-readme-stats)
 
-  📞 Contact me 
+  📞 Contact me<br/>
   knh306@naver.com
 </div>
