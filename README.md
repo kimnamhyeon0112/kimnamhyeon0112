@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   
-  <br/>
-  🔨 Tools...
+  <br/><br/>
+  🔨 Tools...<br/>
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-#000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
