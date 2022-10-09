@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnamhyeon0112&layout=compact)](https://github.com/kimnamhyeon0112/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnamhyeon0112)](https://github.com/kimnamhyeon0112/github-readme-stats)
-</div>
 
 - 📞 Contact me 
   knh306@naver.com
+</div>
