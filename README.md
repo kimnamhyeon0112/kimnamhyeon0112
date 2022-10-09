@@ -25,8 +25,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
-  - 📞 Contact me 
-  knh306@naver.com
 
   
   
@@ -34,3 +32,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnamhyeon0112)](https://github.com/kimnamhyeon0112/github-readme-stats)
 </div>
+
+- 📞 Contact me 
+  knh306@naver.com
