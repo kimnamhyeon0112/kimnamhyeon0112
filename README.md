@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 <div align=center>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnamhyeon0112&layout=compact)](https://github.com/kimnamhyeon0112/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimnamhyeon0112)](https://github.com/kimnamhyeon0112/github-readme-stats)
