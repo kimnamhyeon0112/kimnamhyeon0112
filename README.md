@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   🔨 Tools...<br/>
   <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-#000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-#000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/>
 
   
   
