@@ -25,6 +25,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/><br/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JupyterNotebook-F37626?style=flat-square&logo=JupyterNotebook&logoColor=white"/>
   
   <br/><br/>
   🔨 Tools...<br/>
